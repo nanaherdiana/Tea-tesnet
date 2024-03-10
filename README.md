@@ -1,2 +1,8 @@
 # Tea-tesnet
 This is a tea glass
+# https://tea.xyz/what-is-this-file
+---
+version: 1.0.0
+codeOwners:
+  - '0xf91c865da0FDaFD2f1820F836EcF7404529e0187'
+quorum: 1
